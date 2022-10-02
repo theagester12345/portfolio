@@ -32,6 +32,10 @@ header{
     bottom: 3rem;
 }
 
+.socials a:hover{
+    color:var(--color-secondary-variant);
+}
+
 .socials::after{
     content: '';
     width: 1px;
@@ -64,6 +68,10 @@ header{
     font-weight: 200;
     font-size: 0.9rem;
      
+}
+
+.scroll__down:hover{
+    color:var(--color-secondary-variant); 
 }
 
 
