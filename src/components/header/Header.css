@@ -89,7 +89,15 @@ header{
   /*================MEDIA QUERY(For devices with small screen size dimensions eg: phone)=========================*/
   @media screen and (max-width:600px) {
    header{
-    height: 140vh;
+    height: 90vh;
+   }
+
+   .profile__pic {
+    width: 65%;
+    height: auto;
+    margin-left: 5rem;
+    text-align: center;
+   
    }
 
    .socials , .scroll__down {
