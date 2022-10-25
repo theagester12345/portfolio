@@ -29,7 +29,7 @@ header{
     gap: 0.7rem;
     position:absolute;
     left: 0;
-    bottom: 3rem;
+    bottom: 18rem;
 }
 
 .socials a:hover{
@@ -47,10 +47,10 @@ header{
 /*========== IMAGE STYLES ==============*/
 .profile__pic{
     background: linear-gradient(var(--color-primary),transparent);
-    width: 22rem;
-    height: 30rem;
+    width: 32rem;
+    height: 40rem;
     position: absolute;
-    left: calc(50% - 11rem);
+    left: calc(50% - 16rem);
     margin-top: 4rem;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
@@ -63,7 +63,7 @@ header{
 .scroll__down{
     position: absolute;
     right: -2.3rem;
-    bottom: 5rem;
+    bottom: 18rem;
     transform: rotate(90deg);
     font-weight: 200;
     font-size: 0.9rem;
@@ -82,6 +82,14 @@ header{
   header{
     height: 80vh;
   }
+
+  .socials{
+    bottom: 0;
+  }
+
+  .scroll__down{
+    bottom: 2rem;
+  }
   }
   
   
@@ -95,9 +103,8 @@ header{
    .profile__pic {
     width: 65%;
     height: auto;
-    margin-left: 5rem;
+    margin-left: 9rem;
     text-align: center;
-   
    }
 
    .socials , .scroll__down {
