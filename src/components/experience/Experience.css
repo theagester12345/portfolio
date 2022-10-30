@@ -63,8 +63,9 @@
     /*================MEDIA QUERY(For devices with small screen size dimensions eg: phone)=========================*/
     @media screen and (max-width:600px) {
  
-        .container_experience{
-            gap: 1rem;
+        .experience_content{
+            gap: 1rem ;
         }
+
     
     }
