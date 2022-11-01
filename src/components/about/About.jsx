@@ -51,7 +51,7 @@ const About = () => {
 
 
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nemo sed est deleniti tempora eveniet! Quos veritatis excepturi unde et a sunt eaque ullam nisi. Consequatur placeat officiis inventore at accusantium!
+        I am a solutions-oriented software engineer with 6+ years of experience in full stack development with a specialty in java applications including 3+ years’ experience with Firebase and Google cloud platforms. 
         </p>
 
 

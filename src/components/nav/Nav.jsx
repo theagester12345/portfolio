@@ -4,6 +4,7 @@ import {BiHomeCircle} from 'react-icons/bi'
 import {HiOutlineInformationCircle} from 'react-icons/hi'
 import {AiOutlineHistory} from 'react-icons/ai'
 import {MdOutlineElectricalServices} from 'react-icons/md'
+import {BsBriefcase} from 'react-icons/bs'
 import {AiOutlineContacts} from 'react-icons/ai'
 import { useState } from 'react'
 
@@ -17,6 +18,7 @@ const Nav = () => {
     <a href="#about" onClick={()=> setActive('about')} className={active === 'about' ? 'active':''}><HiOutlineInformationCircle/></a>
     <a href="#experience" onClick={()=> setActive('experience')} className={active === 'experience' ? 'active':''}><AiOutlineHistory/></a>
     <a href="#services"  onClick={()=> setActive('services')} className={active === 'services' ? 'active':''}><MdOutlineElectricalServices/></a>
+    <a href="#portfolio"  onClick={()=> setActive('portfolio')} className={active === 'portfolio' ? 'active':''}><BsBriefcase/></a>
     <a href="#contact"  onClick={()=> setActive('contact')} className={active === 'contact' ? 'active':''}><AiOutlineContacts/></a>
    </nav>
   )
