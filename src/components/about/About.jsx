@@ -28,7 +28,7 @@ const About = () => {
           <article className='about__card'>
             <FaAward className='about_icon'/>
             <h5>Experience</h5>
-            <small>5+ Years Working</small>
+            <small>4+ Years Working</small>
 
           </article>
 
@@ -51,7 +51,7 @@ const About = () => {
 
 
         <p>
-        I am a solutions-oriented software engineer with 6+ years of experience in full stack development with a specialty in java applications including 3+ years’ experience with Firebase and Google cloud platforms. 
+        I am a solutions-oriented software engineer with 4+ years of experience in full stack development with a specialty in java applications including 2+ years’ experience with Firebase and Google cloud platforms. 
         </p>
 
 
