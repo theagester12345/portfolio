@@ -26,7 +26,7 @@ const Experience = () => {
               <BsFillPatchCheckFill/>
               <div>
               <h4>CSS</h4>
-              <small className='text-light'>Intermediate</small>
+              <small className='text-light'>Experienced</small>
               </div>
             </article>
 
@@ -35,7 +35,7 @@ const Experience = () => {
               <BsFillPatchCheckFill/>
               <div>
               <h4>SASS</h4>
-              <small className='text-light'>Beginner</small>
+              <small className='text-light'>Intermediate</small>
               </div>  
             </article>
 
@@ -75,7 +75,7 @@ const Experience = () => {
               <BsFillPatchCheckFill/>
               <div>
               <h4>Vue JS</h4>
-              <small className='text-light'>Beginner</small>
+              <small className='text-light'>Intermediate</small>
               </div>
             </article>
 
@@ -161,7 +161,7 @@ const Experience = () => {
               <BsFillPatchCheckFill/>
               <div>
               <h4>FireStore</h4>
-              <small className='text-light'>Intermediate</small>
+              <small className='text-light'>Experienced</small>
               </div>
             </article>
           </div>
